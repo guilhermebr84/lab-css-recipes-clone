@@ -1,0 +1,45 @@
+/*seletor nome de tag*/
+body {
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.bg-image{
+  background-image: url("../images/apple-pie.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 400px ;
+}
+
+.h1f{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 80px;
+  font-weight: bolder;
+  color: white;
+  padding-top: 180px;
+  padding-left: 500px;
+}
+
+.h3rec{
+  position: sticky;
+}
+
+.h3cook{
+  position: sticky;
+}
+
+footer{
+  background-color: gray;
+  padding: 30px;
+}
+
+.af1{
+color:black;
+}
+
+.af2{
+color:black;
+}
